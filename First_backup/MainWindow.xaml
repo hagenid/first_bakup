@@ -10,6 +10,7 @@
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="91,228,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="button_Copy" Content="Button" HorizontalAlignment="Left" Margin="325,228,0,0" VerticalAlignment="Top" Width="75"/>
         <Slider x:Name="slider" HorizontalAlignment="Left" Margin="182,150,0,0" VerticalAlignment="Top" Width="102"/>
+        <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="213,81,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
