@@ -11,6 +11,7 @@
         <Button x:Name="button_Copy" Content="Button" HorizontalAlignment="Left" Margin="255,274,0,0" VerticalAlignment="Top" Width="75"/>
         <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="86,141,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button1" Content="Вырать файл" HorizontalAlignment="Left" Margin="86,106,0,0" VerticalAlignment="Top" Width="94" Click="button1_Click"/>
+        <ProgressBar Height="10" HorizontalAlignment="Left" Margin="98,216,0,0" Name="progressBar1" VerticalAlignment="Top" Width="256" Value="30" ValueChanged="progressBar1_ValueChanged" />
 
     </Grid>
 </Window>
