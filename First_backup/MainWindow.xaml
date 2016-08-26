@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:First_backup"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Первый бекап" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="91,228,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="button_Copy" Content="Button" HorizontalAlignment="Left" Margin="325,228,0,0" VerticalAlignment="Top" Width="75"/>
-        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="182,150,0,0" VerticalAlignment="Top" Width="102"/>
-        <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="213,81,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="63,274,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="button_Copy" Content="Button" HorizontalAlignment="Left" Margin="255,274,0,0" VerticalAlignment="Top" Width="75"/>
+        <RadioButton x:Name="radioButton" Content="RadioButton" HorizontalAlignment="Left" Margin="86,141,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Вырать файл" HorizontalAlignment="Left" Margin="86,106,0,0" VerticalAlignment="Top" Width="94" Click="button1_Click"/>
 
     </Grid>
 </Window>
